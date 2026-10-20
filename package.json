@@ -1,0 +1,7 @@
+{
+  "name": "telegram-bookkeeping-vercel",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A small Telegram bookkeeping bot for Vercel + Supabase",
+  "engines": { "node": ">=20" }
+}
